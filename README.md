@@ -1,4 +1,4 @@
-# Unity Advanced Audio Framework
+# Unity Crypto Library
 <img src="https://github.com/DevsDaddy/UnityCrypto/blob/main/DevsDaddy/Shared/CryptoLibrary/Preview.png?raw=true" alt="Unity Crypto Library" style="width: 100%" /><br/>
 **Unity Crypto Library** is a set of free and open source **cross-platform tools** for using **cryptographic and hash functions** in your games. 
 It also contains helper classes for handling files and web requests for your convenience.
