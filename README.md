@@ -105,6 +105,6 @@ See framework usage examples in other projects:
 - New Hashing Modules: Argon2, BCrypt, SCrypt, Whirlpool;
 - New Encryption Modules like SPHINCS+;
 
-## Support Me
-Like my libraries or assets?
-<a href="https://boosty.to/devsdaddy" target="_blank">Buy me a coffee</a>.
+## Join Community
+- <a href="https://discord.gg/xuNTKRDebx">Discord Community</a>
+- <a href="https://boosty.to/devsdaddy">Buy me a Beer (Boosty)</a>
