@@ -5,12 +5,17 @@ It also contains helper classes for handling files and web requests for your con
 
 I periodically update possible algorithms based on the latest research in crypto-graphy.
 
+> **Note!** This library supports only Unity 2021+ versions
+
 ## Get Started
 **Unity Crypto Library** is designed for your application and games security and using only default API's like **System** and **UnityEngine**.
 
 **Installation process:**
 - Download and import <a href="https://github.com/DevsDaddy/UnityCrypto/releases">latest release from this page</a>;
 - See <a href="#usage">usage examples below</a>;
+
+**Or Using Unity Package Manager:**<br/>
+```https://github.com/DevsDaddy/UnityCrypto.git?path=/DevsDaddy/Shared/CryptoLibrary/```
 
 ## Usage
 **You can use a simple controller for fast encryption/decryption:**
