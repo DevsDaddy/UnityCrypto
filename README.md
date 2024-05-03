@@ -14,7 +14,7 @@ I periodically update possible algorithms based on the latest research in crypto
 - Download and import <a href="https://github.com/DevsDaddy/UnityCrypto/releases">latest release from this page</a>;
 - See <a href="#usage">usage examples below</a>;
 
-**Or Using Unity Package Manager:**
+**Or Using Unity Package Manager:**<br/>
 ```https://github.com/DevsDaddy/UnityCrypto.git?path=/DevsDaddy/Shared/CryptoLibrary/```
 
 ## Usage
