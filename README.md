@@ -5,6 +5,8 @@ It also contains helper classes for handling files and web requests for your con
 
 I periodically update possible algorithms based on the latest research in crypto-graphy.
 
+> **Note!** This library supports only Unity 2021+ versions
+
 ## Get Started
 **Unity Crypto Library** is designed for your application and games security and using only default API's like **System** and **UnityEngine**.
 
