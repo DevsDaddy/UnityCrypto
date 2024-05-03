@@ -1,0 +1,27 @@
+{
+  "name": "com.devsdaddy.cryptolibrary",
+  "displayName": "Unity Crypto Library",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Unity Crypto Library is a set of free and open source cross-platform tools for using cryptographic and hash functions in your games. It also contains helper classes for handling files and web requests for your convenience.",
+  "documentationUrl": "https://github.com/DevsDaddy/UnityCrypto/",
+  "changelogUrl": "https://github.com/DevsDaddy/UnityCrypto/releases",
+  "licensesUrl": "https://github.com/DevsDaddy/UnityCrypto/blob/main/LICENSE",
+  "keywords": [
+    "unity",
+    "crypto",
+    "library",
+    "framework",
+    "cryptography",
+    "aes",
+    "des",
+    "sha",
+    "md5"
+  ],
+  "author": {
+    "name": "DevsDaddy",
+    "email": "blackfixltd@gmail.com",
+    "url": "https://devsdaddy.hashnode.dev/"
+  },
+  "category": "Unity"
+}
